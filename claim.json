@@ -25,8 +25,10 @@
             "IdoFactory":"0xE1F2297616f443853664425DCb4B149f3AB8e88A",
             "claimUrl":"https://bsc.tars.pro/space/TrustFi/claimer/TrustFi_x_WingStep_%7C_IDO_Round_Vesting"
         },
+	{     
 	    "poolId":67,
             "IdoFactory":"0xE1F2297616f443853664425DCb4B149f3AB8e88A",
             "claimUrl":"https://bsc.tars.pro/space/TrustFi/claimer/TrustFi_x_WingStep_%7C_IDO_Round_Vesting"
+	 }	
     ]
 }
