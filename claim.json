@@ -19,6 +19,11 @@
             "poolId":15,
             "IdoFactory":"0xE1F2297616f443853664425DCb4B149f3AB8e88A",
             "claimUrl":"https://bsc.tars.pro/space/TrustFi/claimer/DarkLand_($BIG)_Rest_Token_Vesting_50%25"
+        },
+	{   
+            "poolId":66,
+            "IdoFactory":"0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+            "claimUrl":"https://bsc.tars.pro/space/TrustFi/claimer/TrustFi_x_WingStep_%7C_IDO_Round_Vesting"
         }
     ]
 }
