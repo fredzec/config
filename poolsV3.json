@@ -262,7 +262,7 @@
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 50000,
-            "receiverAddress": "0x67c426414454aD0201f12B755d5695d5741F5bA7"
+            "receiverAddress": "0xE989F86caef5A49f4A823D72588AC7726BBE7b21"
         },
         {
             "poolId": 3009,
@@ -294,8 +294,8 @@
             "distributedLogo": "https://i.postimg.cc/HLJf3N2C/Ethereum-logo-2014-svg.png",
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
-            "hardCap": 50000,
-            "receiverAddress": "0x67c426414454aD0201f12B755d5695d5741F5bA7"
+            "hardCap": 70000,
+            "receiverAddress": "0xf199D8780A57BfEf2a4b2Ed4A2467dA4974a6ec9"
         }
     ]
 }
