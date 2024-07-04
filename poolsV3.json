@@ -70,6 +70,7 @@
             "poolId": 3003,
             "name": "Cryfi",
             "type": "INO",
+            "cardbg":"https://www.trustfi.org/launchpad/covers/cryfi-cover.png",
             "distribution": "Airdrop",
             "avatar": "https://i.imghippo.com/files/Q5kT21714025060.png",
             "subName": "Shark Pass",
