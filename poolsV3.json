@@ -3,6 +3,8 @@
         {
             "poolId": 3001,
             "name": "Copycat",
+            "nameKey": "Copycat", 
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/copycat-cover.png",
             "distribution": "Airdrop",
@@ -37,6 +39,8 @@
         {
             "poolId": 3002,
             "name": "QuBy AI",
+            "nameKey": "qubyai", 
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/qubyai-cover.png",
             "distribution": "Airdrop",
@@ -71,6 +75,8 @@
         {
             "poolId": 3003,
             "name": "Cryfi",
+             "nameKey": "Cryfi", 
+           "status": "closed",
             "type": "INO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/cryfi-cover.png",
             "distribution": "Airdrop",
@@ -105,6 +111,8 @@
         {
             "poolId": 3004,
             "name": "GPT360",
+             "nameKey": "GPT360", 
+           "status": "closed",
             "type": "Private Sale",
             "cardbg":"https://www.trustfi.org/launchpad/covers/gpt360-cover.png",
             "distribution": "Airdrop",
@@ -139,6 +147,8 @@
         {
             "poolId": 3005,
             "name": "LitCraft",
+           "status": "closed",
+             "nameKey": "LitCraft", 
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/litcraft-cover.png",
             "distribution": "Airdrop",
@@ -173,6 +183,8 @@
         {
             "poolId": 3006,
             "name": "FlipperBase",
+              "nameKey": "FlipperBase", 
+           "status": "closed",
             "cardbg":"https://www.trustfi.org/launchpad/covers/flipperzero-cover.png",
             "type": "IDO",
             "distribution": "Airdrop",
@@ -207,6 +219,8 @@
         {
             "poolId": 3007,
             "name": "Solar DEX",
+                 "nameKey": "solardex", 
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/solardex-cover.png",
             "distribution": "Airdrop",
@@ -241,6 +255,8 @@
         {
             "poolId": 3008,
             "name": "Promodex",
+             "nameKey": "Promodex", 
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/promodex-cover.png",
             "distribution": "Claim",
@@ -275,6 +291,8 @@
         {
             "poolId": 3009,
             "name": "Winee3",
+             "nameKey": "Winee3",
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/winee3-cover.png",
             "distribution": "Claim", 
