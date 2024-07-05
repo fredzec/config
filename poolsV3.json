@@ -106,6 +106,7 @@
             "poolId": 3004,
             "name": "GPT360",
             "type": "Private Sale",
+            "cardbg":"https://www.trustfi.org/launchpad/covers/gpt360-cover.png",
             "distribution": "Airdrop",
             "avatar": "https://i.postimg.cc/RFTWBzbp/GPT360-circle.png",
             "subName": "G360",
@@ -171,6 +172,7 @@
         {
             "poolId": 3006,
             "name": "FlipperBase",
+            "cardbg":"https://www.trustfi.org/launchpad/covers/flipperzero-cover.png",
             "type": "IDO",
             "distribution": "Airdrop",
             "avatar": "https://i.postimg.cc/C5gBHx2n/v-o-D-70i-400x400.jpg",
