@@ -358,7 +358,7 @@
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 70000,
-            "receiverAddress": "0xf199D8780A57BfEf2a4b2Ed4A2467dA4974a6ec9"
+            "receiverAddress": "0xd089aBa92C79D226d09fe0eCEf22C07687f551Ea"
         },
         {
             "poolId": 3011,
@@ -394,7 +394,7 @@
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 50000,
-            "receiverAddress": "0xf199D8780A57BfEf2a4b2Ed4A2467dA4974a6ec9"
+            "receiverAddress": "0x749F8803afC6CA80c6B02D1Ed8B622cd1d4c86d0"
         }
     ]
 }
