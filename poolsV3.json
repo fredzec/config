@@ -400,7 +400,7 @@
             "poolId": 3012,
             "name": "Tanuki Launchpad",
              "nameKey": "Tanuki",
-           "status": "live",
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/tanuki-cover.png",
             "distribution": "Claim", 
