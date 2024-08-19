@@ -436,7 +436,7 @@
             "poolId": 3013,
             "name": "Coin Pays",
              "nameKey": "Coin Pays",
-           "status": "upcoming",
+           "status": "live",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/coinpays-cover.png",
             "distribution": "Claim", 
