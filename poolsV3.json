@@ -508,7 +508,7 @@
             "poolId": 3015,
             "name": "NOMOEX Global",
              "nameKey": "NOMOEX",
-           "status": "live",
+           "status": "Closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/nomoex-cover.png",
             "distribution": "Claim", 
