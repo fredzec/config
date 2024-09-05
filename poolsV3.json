@@ -646,7 +646,7 @@
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 50000,
-            "receiverAddress": "0x208E7413986f5a1799dc4eF0bf93E6B804bFB641"
+            "receiverAddress": "0x41763c87be6DBafa34007b29bE2B253174BC97e8"
         }
     ]
 }
