@@ -616,7 +616,7 @@
             "poolId": 3018,
             "name": "Okeytoo",
              "nameKey": "okaytoo",
-           "status": "live",
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/okeytoo-cover.png",
             "distribution": "Claim", 
@@ -682,7 +682,7 @@
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 100000,
-            "receiverAddress": "0x208E7413986f5a1799dc4eF0bf93E6B804bFB641"
+            "receiverAddress": "0x0f83413E17C9BC7BCEb0D9A455b962AcA54AEc6C"
         }
     ]
 }
