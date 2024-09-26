@@ -652,7 +652,7 @@
             "poolId": 3019,
             "name": "Staynex",
              "nameKey": "staynex",
-           "status": "live",
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/stynex-cover.png",
             "distribution": "Claim", 
