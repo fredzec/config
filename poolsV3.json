@@ -690,7 +690,7 @@
            "status": "live",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/metavirus-cover.png",
-            "distribution": "Airdrop", 
+            "distribution": "claim", 
             "avatar": "https://www.trustfi.org/launchpad/avatar/metavirus-avatar.jpg",
             "subName": "MVT",
             "idoTokenPrice": 0.05,
