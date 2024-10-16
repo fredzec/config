@@ -600,8 +600,8 @@
             "twitter": "https://x.com/full_house_gg",
             "telegram": "https://discord.com/invite/fj2GKNutdk",
             "chainName": "BSC",
-            "startTime": "11AM 10/22/2024 UTC",
-            "endTime": "11AM 10/24/2024 UTC",
+            "startTime": "11AM 12/19/2024 UTC",
+            "endTime": "11AM 12/20/2024 UTC",
             "idoTokenSymbol": "FH",
             "idoOnChainName": "BSC",
             "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
@@ -753,7 +753,7 @@
             "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
-            "hardCap": 100000,
+            "hardCap": 150000,
             "receiverAddress": "0x7f8690cB169dA86AC43Ce3C05e91A2f19a37B494"
         }
     ]
