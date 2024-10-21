@@ -723,7 +723,7 @@
             "poolId": 3021,
             "name": "Boundless Pay",
            "nameKey": "boundlesspay",
-           "status": "live",
+           "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/boundless-pay.png",
             "distribution": "claim", 
