@@ -759,7 +759,7 @@
             "poolId": 3022,
             "name": "Mey Network",
            "nameKey": "meynetwork",
-           "status": "upcoming",
+           "status": "live",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/mey-cover.png",
             "distribution": "claim", 
