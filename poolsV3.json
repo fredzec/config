@@ -793,7 +793,7 @@
             "receiverAddress": "0x38b436a7c59a1a9ffdcc1372fdd0f767fdf6fa45"
         },{
             "poolId": 3023,
-            "name": "Meta Fight",
+            "name": "MetaFight",
            "nameKey": "MetaFight",
            "status": "upcoming",
             "type": "IDO",
