@@ -795,7 +795,7 @@
             "poolId": 3023,
             "name": "MetaFight",
            "nameKey": "MetaFight",
-           "status": "live",
+           "status": "ended",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/metafight-cover.png",
             "distribution": "claim", 
