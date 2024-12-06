@@ -834,7 +834,7 @@
            "status": "upcoming",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/w3kt-cover.png",
-            "distribution": "airdrop", 
+            "distribution": "claim", 
             "avatar": "https://www.trustfi.org/launchpad/avatar/w3kt-avatar.jpg",
             "subName": "MFT",
             "idoTokenPrice": 0.02,
