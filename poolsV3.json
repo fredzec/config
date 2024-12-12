@@ -867,7 +867,7 @@
             "poolId": 3025,
             "name": "YayPal",
            "nameKey": "Yaypal",
-           "status": "live",
+           "status": "ended",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/yaypal-cover.png",
             "distribution": "claim", 
