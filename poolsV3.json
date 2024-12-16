@@ -3,10 +3,12 @@
         {
             "poolId": 0, 
             "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+            "status": "closed",
             "name": "Sugar Kingdom", 
             "nameKey": "SugarKingdomPrivateSale", 
             "chainId": 56, 
             "type": "IDO", 
+            "cardbg":"https://www.trustfi.org/launchpad/covers/copycat-cover.png",
             "distribution": "Airdrop", 
             "avatar": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png", 
             "subName": "$CANDY", 
@@ -33,13 +35,18 @@
             "idoOnChainName":"BSC",
             "idoOnChainLogo":"https://www.trustfi.org/launchpad/bnb.png",
             "distributedName":"BSC",
-            "distributedLogo":"https://www.trustfi.org/launchpad/bnb.png"
+            "distributedLogo":"https://www.trustfi.org/launchpad/bnb.png",
+            
+            "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+            "supportCommTokenDecimals": 18,
+            "hardCap": 70000,
+            "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64"
         },
         {
             "poolId": 3001,
             "name": "Copycat",
             "nameKey": "Copycat", 
-           "status": "closed",
+             "status": "closed",
             "type": "IDO",
             "cardbg":"https://www.trustfi.org/launchpad/covers/copycat-cover.png",
             "distribution": "Airdrop",
