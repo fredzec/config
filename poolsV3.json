@@ -131,6 +131,7 @@
         "nameKey": "SPNIDO", 
         "chainId": 56, 
         "type": "IDO",
+        "cardbg": "https://www.trustfi.org/launchpad/covers/sportzchain-cover.png",
         "distribution": "Airdrop", 
         "avatar": "https://pbs.twimg.com/profile_images/1496439369405587461/snTPuP3Y_400x400.jpg", 
         "subName": "$SPN", 
