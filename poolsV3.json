@@ -29,14 +29,13 @@
             "twitter": "https://twitter.com/SugarKingdomNFT",
             "telegram": "https://t.me/+X3rSQ4M1yYVkNTYx", 
             "chainName": "BSC", 
-            "startTime": "2PM 03/15/2022 UTC", 
+            "startTime": "2PM 03/15/2022 UTC",
             "endTime": "8PM 03/15/2022 UTC",
             "idoTokenSymbol":"CANDY",
             "idoOnChainName":"BSC",
             "idoOnChainLogo":"https://www.trustfi.org/launchpad/bnb.png",
             "distributedName":"BSC",
             "distributedLogo":"https://www.trustfi.org/launchpad/bnb.png",
-            
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 70000,
@@ -652,7 +651,7 @@
             "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
             "supportCommTokenDecimals": 18,
             "hardCap": 100000,
-            "receiverAddress": "0x982227f6a5cb5DeF9D0B66e85DC0032AfC508302"
+            "receiverAddress": "0x208E7413986f5a1799dc4eF0bf93E6B804bFB641"
         },
         {
             "poolId": 3018,
