@@ -1585,7 +1585,7 @@
       "status": "upcoming",
       "type": "IDO",
       "cardbg": "https://www.trustfi.org/launchpad/covers/eternal-cover.png",
-      "distribution": "airdrop",
+      "distribution": "claim",
       "avatar": "https://www.trustfi.org/launchpad/avatar/eternal-avatar.jpg",
       "subName": "ETM",
       "idoTokenPrice": 0.0105,
