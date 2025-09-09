@@ -1797,9 +1797,9 @@
       "receiverAddress": "0x6710E49f243E4f5007a97d61141F9c92d34B13Ff"
     },{
       "poolId": 3044,
-      "name": "WestTech Security ",
+      "name": "WestTech Security",
       "nameKey": "WST",
-      "status": "upcoming",
+      "status": "closed",
       "type": "IDO",
       "cardbg": "https://www.trustfi.org/launchpad/covers/WST-cover.png",
       "distribution": "claim",
