@@ -1865,7 +1865,7 @@
       "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
       "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
       "supportCommTokenDecimals": 18,
-      "hardCap": 200000,
+      "hardCap": 250000,
       "receiverAddress": "0xd2481B9374b18dCFCa377283C9f2574ae6f272de"
     }
   ]
