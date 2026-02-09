@@ -1927,8 +1927,8 @@
       "twitter": "https://x.com/RAMMagentic",
       "telegram": "https://t.me/RammAI_Community",
       "chainName": "BSC",
-      "startTime": "11AM 12/11/2025 UTC",
-      "endTime": "1PM 12/13/2025 UTC",
+      "startTime": "11AM 02/09/2025 UTC",
+      "endTime": "11AM 02/11/2025 UTC",
       "refundButton": "",
       "idoTokenSymbol": "",
       "idoOnChainName": "BSC",
@@ -1938,7 +1938,7 @@
       "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
       "supportCommTokenDecimals": 18,
       "hardCap": 300000,
-      "receiverAddress": "0x51438F17Be38d246fC1BCBb408F101DE244aa306"
+      "receiverAddress": "0xFe3903C87f908f90d9888d8fc4FE1A8D57EEfbA8"
     }
   ]
 }
